@@ -211,9 +211,9 @@
 
     <string name="formatting_help_lists_title">Listy</string>
     <string name="formatting_help_lists_body_1">Czasami chcesz mieć listy ponumerowane:</string>
-    <string name="formatting_help_lists_body_2">1 Jeden</string>
-    <string name="formatting_help_lists_body_3">2. Dwa</string>
-    <string name="formatting_help_lists_body_4">3. Trzy</string>
+    <string name="formatting_help_lists_body_2">Jeden</string>
+    <string name="formatting_help_lists_body_3">Dwa</string>
+    <string name="formatting_help_lists_body_4">Trzy</string>
     <string name="formatting_help_lists_body_5">Czasami chcesz wypunktować:</string>
     <string name="formatting_help_lists_body_6">Rozpocznij linię gwiazdką</string>
     <string name="formatting_help_lists_body_7">A jeśli masz podpunkty, umieść dwie spacje przed kreską lub gwiazdką:</string>
@@ -226,7 +226,7 @@
     <string name="formatting_help_checkboxes_body_3">Pozycja 2</string>
 
     <string name="formatting_help_structured_documents_title">Dokumenty strukturalne</string>
-    <string name="formatting_help_structured_documents_body_1">Czasami przydatne jest posiadanie różnych poziomów nagłówków w celu uporządkowania dokumentów. Rozpocznij wiersze od znaku %1$s, aby utworzyć nagłówki. Wiele %2$s z rzędu oznacza mniejsze rozmiary nagłówków.</string>
+    <string name="formatting_help_structured_documents_body_1">Czasami przydatne jest posiadanie różnych poziomów nagłówków w celu uporządkowania dokumentów. Rozpocznij wiersze od znaku %1$s, aby utworzyć nagłówki. Wiele %2$s w rzędzie oznacza mniejsze rozmiary nagłówków.</string>
     <string name="formatting_help_structured_documents_body_2">To nagłówek trzeciego poziomu</string>
     <string name="formatting_help_structured_documents_body_3">Możesz użyć jednego %1$s aż do sześciu %2$s dla różnych rozmiarów nagłówka.</string>
     <string name="formatting_help_structured_documents_body_4">Jeśli chcesz kogoś zacytować, użyj znaku %1$s przed wierszem:</string>

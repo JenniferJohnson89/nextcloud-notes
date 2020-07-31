@@ -247,4 +247,5 @@
     <string name="error_action_open_battery_settings">Ajustes de batería</string>
     <string name="error_action_open_deck_info">Abrir info de la app</string>
     <string name="error_action_open_network">Configuración de red</string>
-    </resources>
+    <string name="no_other_accounts">Aún no ha configurado ninguna otra cuenta.</string>
+</resources>
